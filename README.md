@@ -23,3 +23,5 @@ A aplicação utiliza uma tabela chamada `alunos`, que contém os seguintes camp
 </div>  
 
 Dessa forma, a tabela possui um total de 6 campos com 4 tipos diferentes de dados (`INT`, `VARCHAR`, `BOOLEAN` e `DATE`), superando os requisitos da atividade, que exigiam 4 campos e 3 tipos de dados diferentes.
+
+Em conclusão, esta atividade foi de grande valor para a aplicação prática dos conceitos aprendidos até o momento. Ao realizá-la, desenvolvemos uma página simples para criação, listagem e remoção de registros, enfrentando o desafio de realizar o deploy da aplicação na instância EC2 e integrá-la a um banco de dados por meio do RDS.
