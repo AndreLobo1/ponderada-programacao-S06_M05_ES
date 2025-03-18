@@ -1,2 +1,2 @@
-# ponderada-programacao-S06_M05_ES
-Repositório dedicado à atividade ponderada da semana 6 do módulo 5 do curso de engenharia de software do Inteli.
+# Atividade ponderada: Elaboração de aplicação integrada a um banco de dados
+Este repositório contém a atividade ponderada da semana 6 do módulo 5 do curso de engenharia de software do Inteli (Instituto de Tecnologia e Liderança). A atividade, intitulada "Elaboração de aplicação integrada a um banco de dados", tem como objetivo desenvolver uma aplicação que permita a criação e listagem de registros em um banco de dados. Além disso, para ampliar as funcionalidades, incluímos a opção de remoção de registros.
